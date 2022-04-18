@@ -33,10 +33,9 @@ This dataset can be imported by executing:
 
 ## Citation
 
-TGA
+TBA
 
 ### BiBTeX Citation
 ```latex
 TBA
-}
 ```
