@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/HiNER?style=flat-square)](https://github.com/cfiltnlp/HiNER/stargazers)
 [![GitHub license](https://img.shields.io/github/license/cfiltnlp/HiNER?style=flat-square)](https://github.com/cfiltnlp/HiNER/blob/main/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
 
 ## About
 
