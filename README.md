@@ -38,7 +38,6 @@ To use the collapsed dataset with only PER, LOC, and ORG tags, please use:<br/>
     hiner = load_dataset('cfilt/HiNER-collapsed')
 ```
 However, the CoNLL format dataset files can also be found on this Git repository under the [data](data/) folder.
-This dataset can be imported by executing:
 
 ## Model(s)
 
