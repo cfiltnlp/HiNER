@@ -23,6 +23,10 @@ You should have the 'datasets' packages installed to be able to use the :rocket:
 ```code
     pip install datasets
 ```
+
+#### MORE TO GO HERE
+
+However, the CoNLL format dataset files can also be found on this Git repository under the [data](data/) folder.
 This dataset can be imported by executing:
 
 ```code
