@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.jpg" alt="logo" width="80" height="80"/></p>
+<p align="center"><img src="CFILT Logo2017 (1).jpg" alt="logo" width="80" height="80"/></p>
 
 # HiNER - Hindi Named Entity Recognition Dataset
 
