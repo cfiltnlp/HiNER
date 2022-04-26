@@ -1,4 +1,4 @@
-<p align="center"><img src="try2.png" alt="logo" width="150" height="150"/></p>
+<p align="center"><img src="logo.png" alt="Computation for Indian Language Technology Logo" width="150" height="150"/></p>
 
 # HiNER - Hindi Named Entity Recognition Dataset
 
