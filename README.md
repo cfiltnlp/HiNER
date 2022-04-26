@@ -1,4 +1,4 @@
-<p align="center"><img src="cfilt-dark-vec.png" alt="Computation for Indian Language Technology Logo" width="150" height="150"/></p>
+<p align="center"><img src="cfilt-dark-vec.png" alt="Computation for Indian Language Technology Logo" width="150" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="aisurrey.svg" alt="Computation for Indian Language Technology Logo" width="250"/></p>
 
 # HiNER - Hindi Named Entity Recognition Dataset
 
