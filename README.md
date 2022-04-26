@@ -1,4 +1,4 @@
-<p align="center"><img src="try1.png" alt="logo" width="80" height="80"/></p>
+<p align="center"><img src="try2.png" alt="logo" width="80" height="80"/></p>
 
 # HiNER - Hindi Named Entity Recognition Dataset
 
