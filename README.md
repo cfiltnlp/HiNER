@@ -42,8 +42,10 @@ However, the CoNLL format dataset files can also be found on this Git repository
 ## Model(s)
 
 Our best performing models are hosted on the HuggingFace models repository:
-1. [HiNER-Collapsed-XLM-R](https://huggingface.co/cfilt/HiNER-Collapse-XLM-Roberta-Large)
-2. [HiNER-Original-XLM-R](https://huggingface.co/cfilt/HiNER-Original-XLM-Roberta-Large)
+1. [HiNER-Collapsed-XLM-R-Large](https://huggingface.co/cfilt/HiNER-collapsed-xlm-roberta-base)
+2. [HiNER-Original-XLM-R-Large](https://huggingface.co/cfilt/HiNER-original-xlm-roberta-large)
+3. [HiNER-Collapsed-MuRIL-Base](https://huggingface.co/cfilt/HiNER-collapsed-muril-base-cased)
+4. [HiNER-Original-MuRIL-Base](https://huggingface.co/cfilt/HiNER-original-muril-base-cased)
 
 ## Maintainer(s)
 
