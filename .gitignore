@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.ipynb
+NERDataset.ipynb
+3-covert-TXT-JSON.ipynb
