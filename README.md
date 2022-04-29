@@ -41,11 +41,13 @@ However, the CoNLL format dataset files can also be found on this Git repository
 
 ## Model(s)
 
-Our best performing models are hosted on the HuggingFace models repository:
-1. [HiNER-Collapsed-XLM-R-Large](https://huggingface.co/cfilt/HiNER-collapsed-xlm-roberta-base)
-2. [HiNER-Original-XLM-R-Large](https://huggingface.co/cfilt/HiNER-original-xlm-roberta-large)
-3. [HiNER-Collapsed-MuRIL-Base](https://huggingface.co/cfilt/HiNER-collapsed-muril-base-cased)
-4. [HiNER-Original-MuRIL-Base](https://huggingface.co/cfilt/HiNER-original-muril-base-cased)
+Our best performing models are hosted on the HuggingFace models repository
+
+| Dataset | XLM-R<sub>large</sub> | MuRIL<sub>base</sub> | Description |
+| --- | --- | --- | --- |
+| [`HiNER - Original`](https://huggingface.co/datasets/cfilt/HiNER-original) | [HiNER-Original-XLM-R-Large](https://huggingface.co/cfilt/HiNER-original-xlm-roberta-large) | [HiNER-Original-MuRIL-Base](https://huggingface.co/cfilt/HiNER-original-muril-base-cased) | Models obtained by fine-tuning on the XLM-R<sub>large</sub> multilingual language model |
+| [`HiNER - Collapsed`](https://huggingface.co/datasets/cfilt/HiNER-collapsed) | [HiNER-Collapsed-XLM-R-Large](https://huggingface.co/cfilt/HiNER-collapsed-xlm-roberta-base) | [HiNER-Collapsed-MuRIL-Base](https://huggingface.co/cfilt/HiNER-collapsed-muril-base-cased) | Models obtained by fine-tuning on the MuRIL<sub>base</sub> multilingual language model |
+
 
 ## Maintainer(s)
 
