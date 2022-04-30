@@ -45,7 +45,7 @@ Our best performing models are hosted on the HuggingFace models repository
 
 | Models | [`HiNER - Original`](https://huggingface.co/datasets/cfilt/HiNER-original) | [`HiNER - Collapsed`](https://huggingface.co/datasets/cfilt/HiNER-collapsed) | Description |
 | --- | --- | --- | --- |
-| [XLM-R<sub>large</sub>](https://huggingface.co/xlm-roberta-large) | [HiNER-Original-XLM-R-Large](https://huggingface.co/cfilt/HiNER-original-xlm-roberta-large)  | [HiNER-Collapsed-XLM-R-Large](https://huggingface.co/cfilt/HiNER-collapsed-xlm-roberta-base) | Fine-tuning on the XLM-R<sub>large</sub> multilingual language model |
+| [XLM-R<sub>large</sub>](https://huggingface.co/xlm-roberta-large) | [HiNER-Original-XLM-R-Large](https://huggingface.co/cfilt/HiNER-original-xlm-roberta-large)  | [HiNER-Collapsed-XLM-R-Large](https://huggingface.co/cfilt/HiNER-collapsed-xlm-roberta-large) | Fine-tuning on the XLM-R<sub>large</sub> multilingual language model |
 | [MuRIL<sub>base</sub>](https://huggingface.co/google/muril-base-cased) | [HiNER-Original-MuRIL-Base](https://huggingface.co/cfilt/HiNER-original-muril-base-cased) | [HiNER-Collapsed-MuRIL-Base](https://huggingface.co/cfilt/HiNER-collapsed-muril-base-cased) | Fine-tuning on the MuRIL<sub>base</sub> multilingual language model |
 
 
