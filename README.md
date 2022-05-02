@@ -11,7 +11,7 @@
 
 ## About
 
-This repository contains the Hindi Named Entity Recognition dataset (HiNER) published at the Langauge Resources and Evaluation conference (LREC) in 2022. 
+This repository contains the Hindi Named Entity Recognition dataset (HiNER) published at the Langauge Resources and Evaluation conference (LREC) in 2022. A pre-print via arXiv is available [here](https://arxiv.org/abs/2204.13743).
 
 ### Recent Updates
 * Version 0.0.5: HiNER initial release
@@ -60,5 +60,14 @@ TBA
 
 ### BiBTeX Citation
 ```latex
-TBA
+@misc{https://doi.org/10.48550/arxiv.2204.13743,
+  doi = {10.48550/ARXIV.2204.13743},
+  url = {https://arxiv.org/abs/2204.13743},
+  author = {Murthy, Rudra and Bhattacharjee, Pallab and Sharnagat, Rahul and Khatri, Jyotsana and Kanojia, Diptesh and Bhattacharyya, Pushpak},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {HiNER: A Large Hindi Named Entity Recognition Dataset},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```
